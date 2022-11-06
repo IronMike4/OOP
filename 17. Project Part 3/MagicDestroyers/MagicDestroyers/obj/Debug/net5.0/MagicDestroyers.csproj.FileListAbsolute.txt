@@ -1,0 +1,16 @@
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\bin\Debug\net5.0\MagicDestroyers.exe
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\bin\Debug\net5.0\MagicDestroyers.deps.json
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\bin\Debug\net5.0\MagicDestroyers.runtimeconfig.json
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\bin\Debug\net5.0\MagicDestroyers.runtimeconfig.dev.json
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\bin\Debug\net5.0\MagicDestroyers.dll
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\bin\Debug\net5.0\MagicDestroyers.pdb
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.csproj.AssemblyReference.cache
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.AssemblyInfoInputs.cache
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.AssemblyInfo.cs
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.dll
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\refint\MagicDestroyers.dll
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.pdb
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\MagicDestroyers.genruntimeconfig.cache
+C:\Git\Training\Object Oriented Programming with C# - Beginner to Advanced\06. Project1\MagicDestroyers\MagicDestroyers\obj\Debug\net5.0\ref\MagicDestroyers.dll
