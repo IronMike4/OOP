@@ -11,7 +11,7 @@ namespace CSharpOOP.Characters.Warriors
         private string name;
         private Sword swordWeapon;
 
-        public int Height
+        protected internal int Height
         {
             get
             {
@@ -54,6 +54,7 @@ namespace CSharpOOP.Characters.Warriors
                 name = value;
             }
         }
+
         public Sword SwordWeapon
         {
             get
